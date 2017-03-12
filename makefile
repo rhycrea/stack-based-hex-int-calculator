@@ -1,4 +1,5 @@
-calculator : exp2.c int.h hex.h datastructures.h
-	gcc -o exp2 exp2.c -Wall -lm
+calculator : calculator.c int.h hex.h datastructures.h
+	gcc -o calculator calculator.c -Wall -lm
 clean :
-	rm exp2
+	rm calculator
+
