@@ -1,13 +1,16 @@
-integer -6
-integer 2
-integer -2
-integer -3076
-integer 468
-hex 21
-hex 906
-hex -377
-hex -360
-hex -68A
-hex 68A
-hex -47E776
-integer 10860
+integer 686
+integer 5681
+hex AD1F
+integer 4
+hex 3FA
+hex 1E
+integer 280002
+hex 1AE002
+error
+error
+hex 2166
+error
+error
+hex 2AD
+integer 39
+hex -A8F0B2C
