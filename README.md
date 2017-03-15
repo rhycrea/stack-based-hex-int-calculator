@@ -1,6 +1,6 @@
 # stack-based-hex-int-calculator
 
-A stack - based calculator that works on hexadecimal and integer numbers. used for evaluating arithmetic expressions.
-It can be easily understood by reading input and output files.
+A stack-based calculator that works on hexadecimal and integer numbers. Used for evaluating arithmetic expressions.
+Usage can be easily understood by reading example input and output files.
 
-Use: ./calculator input.txt output.txt
+Usage : ./calculator input.txt output.txt
